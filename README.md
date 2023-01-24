@@ -1,2 +1,5 @@
 # chronometer
-Experiment: Chronometer desktop using [Go](//go.dev) and [Fyne](//developer.fyne.io/).
+
+Experiment: Chronometer desktop app using [Go](//go.dev) and [Fyne](//developer.fyne.io/).
+
+![](.github/assets/demo.mov)
